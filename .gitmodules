@@ -1,0 +1,3 @@
+[submodule "componets"]
+	path = componets
+	url = git@github.com:dozedoze/sub-component-library.git
